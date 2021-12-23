@@ -11,7 +11,7 @@
 * [🗺 Map of the Garden](map-of-the-garden/README.md)
   * [🌅 The Dream Awakens](map-of-the-garden/the-dream-awakens.md)
   * [☯ Eden Daoists](map-of-the-garden/eden-daoists.md)
-  * [🌟 Tribes of Eden](map-of-the-garden/tribes-of-eden.md)
+  * [🌟 Tribes & Timeline](map-of-the-garden/tribes-and-timeline.md)
   * [🏛 The Temple](map-of-the-garden/the-temple.md)
   * [🌳 Klima & Eden Dao](map-of-the-garden/klima-and-eden-dao.md)
 * [❤ Colophon](colophon.md)

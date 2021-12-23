@@ -1,8 +1,6 @@
-# 🌟 Tribes of Eden
+# 🌟 Tribes & Timeline
 
-The Tribes steward our Garden. For their efforts, they earn GRDN tokens. GRDN tokens yield a pro-rata distribution of EDN that flows to the GRDN.
-
-
+The Tribes steward our Garden. For their efforts, they earn GRDN tokens. GRDN tokens yield a pro-rata distribution of EDN that flows to the GRDN. _GRDN tokens are non-transferrable and infinitely mintable._
 
 ### The Tribes | [Apply here!](https://edendao.typeform.com/vision-quest)
 
@@ -42,15 +40,11 @@ The Tribes steward our Garden. For their efforts, they earn GRDN tokens. GRDN to
 
 ****
 
-_GRDN tokens are non-transferrable._
-
-__
-
 !["Working with the garage door open"](<../.gitbook/assets/image (13).png>)
 
 ### _Optimistic Timeline_
 
-> I made this up in 5m so I could go eat lunch.
+> _I made this up in 5m so I could go eat lunch._
 
 1. Union Bonding Curve public mint limited to $10K every week.
 2. Ascending DRMs Game from January 10th–31st
