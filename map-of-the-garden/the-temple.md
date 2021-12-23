@@ -6,6 +6,8 @@ Temple aims to offer investment opportunities to suit a variety of risk profiles
 
 
 
+{% embed url="https://www.plectica.com/maps/7SZZDQ08A" %}
+
 ### Temple Reserves
 
 The Temple Reserves are responsible for managing the supply of the Eden Dao Note (EDN). EDN invests in the future price of carbon. EDN _is a currency_ that is backed by the Temple Reserve.&#x20;
