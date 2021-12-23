@@ -10,8 +10,6 @@
 
 __
 
-![](<.gitbook/assets/image (14).png>)
-
 Welcome, dear friend, make yourself at home.
 
 We are at a turning point in history.

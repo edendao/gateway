@@ -1,5 +1,7 @@
 # ❤ Colophon
 
+KlimaDAO for showing us that it was possible to make a difference on the world stage.
+
 I appreciate Stripe Climate and Shopify's Sustainability Fund. Without your public goods, this would not have been possible.
 
 Jim from The Future Forest Company for activating my conviction in this idea.

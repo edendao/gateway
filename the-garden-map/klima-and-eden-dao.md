@@ -1,6 +1,6 @@
 # 🌳 Klima & Eden Dao
 
-### ![](<../.gitbook/assets/image (20).png>)
+### ![](<../.gitbook/assets/image (21).png>)
 
 
 
@@ -14,7 +14,7 @@ The Eden Dao can buy future carbon removal _mass_ (at any stage of certification
 
 __
 
-### **Liquidity Pool vs. Distributed Oracle Network**
+### **Carbon Pooling vs. Distributed Protocol Owned Liquidity**
 
 Carbon offsets can cost anywhere from US$0.60 to US$2,000. BCT squeezes this to a single price. More carbon pools will create new markets, but still squeeze carbon prices into tranches.
 
@@ -28,4 +28,4 @@ _The Eden Dao_ meets carbon project developers where they're at to compensate th
 
 Klima is based off OlympusDAO whereas Eden Dao is inspired by TempleDAO.
 
-**Result: Stable Price but Lower Potential APY**
+**Result: Stable price but lower potential APY, intrinsic value that is skewed towards rising.**
