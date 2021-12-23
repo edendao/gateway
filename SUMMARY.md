@@ -9,7 +9,7 @@
   * [👺 5. Moloch Strikes Back](welcome-to-the-dao/5.-moloch-strikes-back.md)
   * [🌊 6. Return of the DAO](welcome-to-the-dao/6.-return-of-the-dao.md)
 * [🗺 Map of the Garden](map-of-the-garden/README.md)
-  * [🌅 7. The Dream Awakens](map-of-the-garden/7.-the-dream-awakens.md)
+  * [🌅 The Dream Awakens](map-of-the-garden/the-dream-awakens.md)
   * [☯ Eden Daoists](map-of-the-garden/eden-daoists.md)
   * [🌟 Tribes of Eden](map-of-the-garden/tribes-of-eden.md)
   * [🏛 The Temple](map-of-the-garden/the-temple.md)

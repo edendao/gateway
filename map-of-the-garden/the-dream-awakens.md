@@ -1,0 +1,33 @@
+# 🌅 The Dream Awakens
+
+To commemorate this genesis of our dreams, we are launching _The Dream Awakens_ series of 1/1 Dream NFTs.
+
+Each dream comes from the excitations of an artificial neural network rendered as a 2048x2048 MP4. There will be at most 420 Dream NFTs over the lifetime of _The Eden Dao_. Dream NFTs are owned by the DAO and may be used for a variety of reasons, including but not limited to:
+
+1. Auctioned
+2. Fractionalized
+3. Fundraising for other organizations
+4. Presented as honorary gifts
+
+
+
+### Near the foundation of being is the breath
+
+> You are not in charge of your breathing, or at least, not so much.
+>
+> Yes, you could hold your breath (for a while) and you could choose to breathe deliberately fast and shallow for a time, but fairly soon any attempt to force the breath will produce counter-measures from within.
+>
+> At the same time, with practice, it’s possible to learn to align with the breath, gently moving with it, while [allowing space](https://www.mindful.org/learning-the-light-touch-of-allowing/) for it to come into its own natural depth, pace, and flow.
+>
+> Things seem to go best when we cooperate with the breath, rather than resisting or clinging to it.[ ↗](https://www.mindful.org/6-reasons-why-mindfulness-begins-with-the-breath/)
+
+Like a dream, it's not something you're doing, it's something that's happening _to you_.&#x20;
+
+> _Have you ever considered that you are not conscious,_\
+> _but rather that consciousness is happening to you?_
+
+{% embed url="https://cleanshot-cloud-fra.accelerator.net/media/19059/vvIEHvQ39InntwGTRs9ClIwJdv3Z27UhReuDxtni.mp4" %}
+
+Each dream is a unique sensory experience, and no two are alike. They present new perspectives on harmonizing with the nature of reality.
+
+{% embed url="https://cleanshot-cloud-fra.accelerator.net/media/19059/foMYD3sFeKyaz8HjRRlw4svou3NH9j5i5zfJJTj2.mp4" %}
