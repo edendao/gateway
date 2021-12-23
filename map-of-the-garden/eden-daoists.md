@@ -40,7 +40,7 @@ In a single transcendent DeFi meditation, bond FRAX for EDN at the Temple Market
 
 In the future, we will pave the way for Regens to perform Union Bonding at Bond Price. For this, we are exploring the use of _Isolated Debt Markets_. Regens bond FRAX directly with a project's CDRM to provide a line of credit to that project and mint EDN at Bond Price.
 
-![](<../.gitbook/assets/image (13).png>)
+![](<../.gitbook/assets/image (13) (1).png>)
 
 ### Infinite Harvest
 
