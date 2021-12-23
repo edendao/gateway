@@ -1,5 +1,7 @@
 # 🌱 Welcome to the Dao
 
+![](<.gitbook/assets/image (8).png>)
+
 > The question, O me! so sad, recurring—What good amid these, O me, O life?\
 > \
 > _Answer._\
@@ -7,8 +9,6 @@
 > That our powerful play goes on, and you may contribute a verse.\
 > \
 > _— Walt Whitman_
-
-__
 
 Welcome, dear friend, make yourself at home.
 
