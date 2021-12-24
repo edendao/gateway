@@ -27,16 +27,17 @@ The Tribes steward our Garden. For their efforts, they earn GRDN tokens. GRDN to
    * [ ] Craft React Frontends
    * [ ] Campaign Charismatically
    * [ ] Communicate Elegantly
-   * [ ] Nurture Community
+   * [ ] Warmly Nurture Community
 5. **Climate Council — Climate Experts, Sourcing & Qualifying, Real-World Logistics**\
    ****_Reach out if you:_
    * [ ] Map Carbon Territories
    * [ ] Think in Systems
    * [ ] Champion Projects
    * [ ] "Make It Happen" Operationalizers
-6. **Art Greenhaus — Artists Unfucking The Planet**
-   * [ ] Generative Artists
-   * [x] Sound Artists
+6. **Art Greenhaus — Artists unfucking the planet with**
+   * [x] curator
+   * [ ] generative art
+   * [x] soundscapes and vibes
 
 ****
 
