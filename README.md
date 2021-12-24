@@ -26,6 +26,8 @@ And it will need you.
 
 **So that together we may say that — against all odds — **_**we unfucked the planet.**_
 
+{% embed url="https://open.spotify.com/track/6pnwfWyaWjQiHCKTiZLItr?si=4f9adc790a314154" %}
+
 To do this we must question our learned mental models of what is valuable, and what isn't. Throughout history, people, empires and nations have sought gold and more recently oil, and they have murdered, warred and destroyed to get them. But why is gold, a shiny metal with few industrial uses, valuable? Oil is obviously useful, but how can we value it when it's use is destroying our planet? We should value what matters. For this next phase of history, we must make saving our planet the most valuable thing.
 
 We must reduce emissions — and we have — demand for carbon offsets has exploded over the past 3 years and now outpaces annual supply growth. But we need to be doing more. We’ve got to give it all that we’ve got.
