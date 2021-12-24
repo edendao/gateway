@@ -36,7 +36,7 @@ __
 
 _AKA: Buy and Stake_
 
-In a single transcendent DeFi meditation, bond FRAX for EDN at the Temple Market Price then bond EDN into the Temple Reserves for EDEN. The market price is a multiple of the Intrinsic Value (IV) defined by the Union Bonding Curve contract.
+In a single transcendent DeFi meditation, bond FRAX for EDN at the Temple Market Price then bond EDN into the Temple Reserves for EDEN. The market price is a multiple of the Intrinsic Value (IV) defined by the Union Bonding Curve contract. EDEN holders are distributed EDN when new EDN is minted when the value of the Temple Reserves increases. &#x20;
 
 In the future, we will pave the way for Regens to perform Union Bonding at Bond Price. For this, we are exploring the use of _Isolated Debt Markets_. Regens bond FRAX directly with a project's CDRM to provide a line of credit to that project and mint EDN at Bond Price.
 
