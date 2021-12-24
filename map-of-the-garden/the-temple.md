@@ -1,6 +1,6 @@
 # 🏛 The Temple
 
-In our Garden we will build our Temple to safeguard our wealth. Our Temple is inpsired by [TempleDAO](https://docs.templedao.link) and OlympusDAO.
+In our Garden we will build our Temple to safeguard our wealth. Our Temple is inspired by [TempleDAO](https://docs.templedao.link) and OlympusDAO.
 
 Temple aims to offer investment opportunities to suit a variety of risk profiles. **The Temple of EDEN goes beyond yield-generating staking platforms to become a multi-faceted DeFi investment platform aimed at long-term wealth creation.**
 
