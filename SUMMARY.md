@@ -14,4 +14,5 @@
   * [🌟 Tribes & Timeline](map-of-the-garden/tribes-and-timeline.md)
   * [🏛 The Temple](map-of-the-garden/the-temple.md)
   * [🌳 Klima & Eden Dao](map-of-the-garden/klima-and-eden-dao.md)
+* [💌 Aligned Souls](aligned-souls.md)
 * [❤ Colophon](colophon.md)
