@@ -13,7 +13,7 @@ The Tribes steward our Garden. For their efforts, they earn GRDN tokens. GRDN to
 2. **DAO Ops — Managing and Operationalizing the DAO**\
    ****_Reach out if you would like to help us:_
    * [ ] Organize Human Capital Philosophically
-   * [ ] Steward Projects
+   * [x] Steward Projects
    * [ ] Organization System Craftsperson
 3. **Protocol Labs — Engineering & Protocol R\&D**\
    ****_Looking for mission-oriented:_
