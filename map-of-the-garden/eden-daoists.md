@@ -13,7 +13,7 @@ _AKA Carbon Curation Markets_
 > The Dao de DRM manifests destiny: The Great Carbon Rush of the 21st Century\
 > Future Carbon = 21st Century Gold => Let's Accumulate High Quality Carbon
 
-This active strategy where you learn to manifest your DRMs of an unfucked planet into EDN at the Bond Price (BP).
+With this active strategy you learn to manifest your DRMs of an unfucked planet into EDN at the Bond Price (BP).
 
 $$
 IV < BP < MP
