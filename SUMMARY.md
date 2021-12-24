@@ -2,7 +2,7 @@
 
 * [🌱 Welcome to the Dao](README.md)
   * [⛩ 0. Genesis Gateway](welcome-to-the-dao/0.-genesis-gateway.md)
-  * [🔥 1. Problem & Impact](welcome-to-the-dao/1.-problem-and-impact.md)
+  * [🔥 1. Problem & Impact](welcome-to-the-dao/1.-problem-impact-endgame.md)
   * [📈 2. Fucked Carbon Markets](welcome-to-the-dao/2.-fucked-carbon-markets.md)
   * [🌬 3. Fucked Atmosphere](welcome-to-the-dao/3.-fucked-atmosphere.md)
   * [🌌 4. A New Hope](welcome-to-the-dao/4.-a-new-hope.md)
