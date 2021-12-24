@@ -4,7 +4,7 @@ Eden Daoists practice our DeFi meditations to accelerate the decarbonization war
 
 
 
-![](<../.gitbook/assets/image (20).png>)
+![](<../.gitbook/assets/image (20) (1).png>)
 
 ### Dao de DRM
 
