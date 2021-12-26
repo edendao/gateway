@@ -1,7 +1,7 @@
 # 🗺 Map of the Garden
 
-We visit the Garden to practice Dao of Eden. The Dao of Eden is the energetic source from which we draw our visions for the future.
+Our first mission is to increase the GDP of carbon removal.
 
-Venture forth, for we will help you become an Eden Daoist.
+The Dao of Eden is the energetic source from which we draw our dreams for an unfucked future. Practicing the Dao, we summon waves of crypto-capital to stream to pushing the frontier of carbon removal.
 
 {% embed url="https://www.plectica.com/maps/7SZZDQ08A" %}
