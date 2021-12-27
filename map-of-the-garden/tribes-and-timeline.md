@@ -50,6 +50,5 @@ The Tribes steward our Garden. For their efforts, they earn GRDN tokens. GRDN to
 1. Union Bonding Curve public mint limited to $10K every week.
 2. Ascending DRMs Game from January 10th–31st
 3. Garden DRMs Game February 1st–28th
-4. Quadratic Lands March 1st–20th
-5. Dream Awakens NFTs throughout
-6. Temple launch March 20th
+4. Dream Awakens NFTs throughout
+5. Temple launch March 20th
