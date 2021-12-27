@@ -45,7 +45,7 @@ The Tribes steward our Garden. For their efforts, they earn GRDN tokens. GRDN to
 
 ### _Optimistic Timeline_
 
-1. EDN Minting Contract
+1. EDN Minting Contract & DAO Infrastructure
 2. Ascending DRMs Game from January 10th–31st
 3. ?? Garden DRMs Game February 1st–28th
 4. Dream Awakens NFTs Throughout
