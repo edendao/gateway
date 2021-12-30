@@ -1,6 +1,6 @@
 # ☯ Eden Daoists
 
-Eden Daoists practice our DeFi meditations to accelerate the decarbonization warp drive. They profit off the appreciation of the voluntary carbon offsets ([2.-fucked-carbon-markets.md](../welcome-to-the-dao/2.-fucked-carbon-markets.md "mention")).&#x20;
+Eden Daoists practice our DeFi meditations to accelerate the decarbonization warp drive. They profit off the appreciation of the voluntary carbon offsets ([2.-fucked-carbon-markets.md](../the-potential/2.-fucked-carbon-markets.md "mention")).&#x20;
 
 
 

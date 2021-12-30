@@ -22,7 +22,7 @@ EDN can be devoted to the Temple in exchange for EDEN, which receives rewards fr
 
 ### Carbon Harvest
 
-The value of the Reserve's Carbon will often increase in value due to the [2.-fucked-carbon-markets.md](../welcome-to-the-dao/2.-fucked-carbon-markets.md "mention") or the minting of new EDN. In these times, the increase in reserve value will trigger the _Harvest_, which will mint and distribute new EDN backed by this additional reserve to EDEN bonders.&#x20;
+The value of the Reserve's Carbon will often increase in value due to the [2.-fucked-carbon-markets.md](../the-potential/2.-fucked-carbon-markets.md "mention") or the minting of new EDN. In these times, the increase in reserve value will trigger the _Harvest_, which will mint and distribute new EDN backed by this additional reserve to EDEN bonders.&#x20;
 
 * 49% is distributed to the staking pool.
 * 27.5% goes to the Protocol Fund, governed by EDEN holders, which can be used for Liquidity Mining, Price Stabilizing, or as an Insurance Pool.
