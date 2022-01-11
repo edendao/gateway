@@ -16,13 +16,12 @@ coverY: 0
 > 7. Objective regulations/rules. \[客观规律.]
 > 8. Quality, nature, basic character, characteristics, attribute. \[性质; 属性.]
 > 9. Intention, purpose, heart, mind. For example: "Be of one heart and mind". \[心意. 如:一心一德.]
-> 10. In [Five Phases](https://en.m.wikipedia.org/wiki/Wuxing\_\(Chinese\_philosophy\)) theory, a reference to seasonally productive energy/air. \[五行说指四季的旺气.]
-> 11. First growth, initial stage, beginning of something. \[始生; 事物的开始.]
-> 12. A phoenix-head pattern/decoration. \[凤凰头上的花纹.]
-> 13. Blessings, good fortune, happiness, resulting from benevolent actions. \[福, 善庆的事.]
-> 14. Used for _zhí_ "straight, just". \[通 "直(_zhí_)".]
-> 15. Used for _zhí_ "to plant, grow, establish". Plant a tree. \[通 "植(_zhí_)". 立木.]
-> 16. Used for "get, obtain, result in". \[通 "得".]
+> 10. First growth, initial stage, beginning of something. \[始生; 事物的开始.]
+> 11. A phoenix-head pattern/decoration. \[凤凰头上的花纹.]
+> 12. Blessings, good fortune, happiness, resulting from benevolent actions. \[福, 善庆的事.]
+> 13. Used for _zhí_ "straight, just". \[通 "直(_zhí_)".]
+> 14. Used for _zhí_ "to plant, grow, establish". Plant a tree. \[通 "植(_zhí_)". 立木.]
+> 15. Used for "get, obtain, result in". \[通 "得".]
 
 
 
