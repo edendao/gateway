@@ -1,4 +1,4 @@
-# 🌱 Welcome to the Dao
+# 🌱 The Potential
 
 ![](<.gitbook/assets/image (8).png>)
 
@@ -48,7 +48,7 @@ Our dreams of harmony with the carbon cycle of our planet are in the future hand
 
 We want to help projects go from 0–1, then help them scale from 1 to 100. Future carbon removals lets us proactively fund the methodologies that can unfuck the planet.
 
-This is similar to Stripe Climate, or Shopify's Sustainability Fund. Stripe, for example, leads the industry with $250K purchases of future carbon removals to be delivered in 2 years. They are inspirations for this endeavour, and without their public goods, this project would never have existed. How might crypto capitalists create a decentralized Stripe Climate?
+This is similar to [Stripe Climate](https://stripe.com/climate), or [Shopify's Sustainability Fund](https://cdn.shopify.com/static/sustainability/How-to-Kick-Start-the-Carbon-Removal-Market\_Shopifys-Playbook.pdf). They are inspirations for this endeavour, and without their public goods, this project would never have existed. How might crypto capitalists create a decentralized Stripe Climate?
 
 As climate capitalists, we believe that markets direct capital to where it is needed. Which is why we're creating a way for carbon removal projects to get paid for manifesting our dreams of the future. In this market we buy future carbon removal mass. We buy our dreams of removing mass from the atmosphere.
 
@@ -57,5 +57,3 @@ We want to kick-start the DeFi market for future carbon — and invite everyone 
 Welcome to the Dao.
 
 **— Cyrus**
-
-****
