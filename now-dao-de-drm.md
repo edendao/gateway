@@ -29,7 +29,7 @@ I have a dream that one day we can proudly say that we gave the climate crisis a
 
 > I decided to join the DAO after understanding the values, mission and intention of it. As a fellow solarpunk, I want more solarpunk ideas to flourish.\
 > \
-> — Manu, Founder @ DoinGud, Meta Cartel Ventures
+> — Manu (Founder @ DoinGud, Meta Cartel Ventures)
 
 
 
@@ -52,7 +52,7 @@ _We are going to regenerate earth together._
 > Eden Dao is at the forefront of bringing real innovation to investment in climate impact. The community is focused on overcoming a critical challenge in aggregating significant funding for innovative technologies and channeling that investment into the technologies and protects with the greatest promise of impact.
 >
 > \
-> — Ned, previously Managing Director @ [Rocky Mountain Institute](https://rmi.org)
+> — Ned (previously Managing Director @ [Rocky Mountain Institute](https://rmi.org))
 
 
 
@@ -72,7 +72,7 @@ Initially, these tokens would be backed by the DRM DAO's reserve of high quality
 
 > After spending the last year studying carbon removal, the one thing I'm sure of is that we're critically supply-constrained — because of an unprecedented swell of demand from governments and major corporations that need to fulfill their net-zero commitments, and because too many of the offsets in-market today have limited drawdown potential. The future of carbon markets is a multi-billion dollar industry of permanent, verifiable carbon removal projects like those in labs around the world today. The Eden Dao lets you get a discount on this future, while catalyzing the projects we urgently need to scale.\
 > \
-> — Lily, Principal @ [Wireframe VC](https://www.wireframevc.com/about)
+> — Lily (Principal @ [Wireframe VC](https://www.wireframevc.com/about))
 
 The DRM DAOs is also a public community-style "party round" for anyone in the world to participate in. The Eden Dao is fundamentally _for the people_, and invites anyone to get in on the ground floor. _The community shares the same privileges as an investor, and vice versa._
 
