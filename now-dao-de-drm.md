@@ -82,7 +82,11 @@ The DRM DAOs is also a public community-style "party round" for anyone in the wo
 
 > If you can convince people to pay for the social price of future carbon up front you'll disrupt the market, upend existing mental models, and unlock scale for carbon removal projects.\
 > \
-> — Amy (Supply & Product Lead @ [Patch](https://patch.io)) & Jim (Founder @ [The Future Forest Company](https://thefutureforestcompany.com))
+> — Jim (Founder @ [The Future Forest Company](https://thefutureforestcompany.com))
+
+> Stoked about this and the disruptive impact it will have on the growth rate of carbon removal technologies. This is the most epic thing happening in carbon markets right now!\
+> \
+> — Brandon (Product @ [Patch](https://patch.io))
 
 We're going to explore and experiment with different models to help project developers scale by materializing their future revenue into the present.
 
