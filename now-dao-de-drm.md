@@ -66,7 +66,7 @@ _L2 deployments coming soon. We are all getting in on the ground floor._
 2. DRM tokens are purely governance tokens and non-transferrable
 3. For diamond handers only — no rage quits (though we use a Gnosis Safe, so we could add it)
 4. The fundraise is initially capped at $10M per chain
-5. The team — DAO De GRDN — receives 15% of tokens
+5. The team — DAO De GRDN — receives 10% of tokens
 
 Initially, these tokens would be backed by the DRM DAO's reserve of high quality carbon removals, which are experiencing a supply squeeze right now. (See more: [2.-fucked-carbon-markets.md](the-potential/2.-fucked-carbon-markets.md "mention"))
 
