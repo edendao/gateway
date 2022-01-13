@@ -8,7 +8,7 @@
   * [🌌 4. A New Hope](the-potential/4.-a-new-hope.md)
   * [👺 5. Moloch Strikes Back](the-potential/5.-moloch-strikes-back.md)
   * [🌊 6. Return of the DAO](the-potential/6.-return-of-the-dao.md)
-* [☀ Now: DAO De DRM](now-dao-de-drm.md)
+* [☀ DAO De DRM](dao-de-drm.md)
 * [🗺 WIP Map of the Garden](wip-map-of-the-garden/README.md)
   * [🌅 The Dream Awakens](wip-map-of-the-garden/the-dream-awakens.md)
   * [☯ Eden Daoists](wip-map-of-the-garden/eden-daoists.md)
