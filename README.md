@@ -1,6 +1,6 @@
-# 🌱 The Potential
+# 🌱 Dao De EDN
 
-![](<.gitbook/assets/image (8).png>)
+![](<.gitbook/assets/image (22).png>)
 
 > The question, O me! so sad, recurring—What good amid these, O me, O life?\
 > \

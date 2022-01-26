@@ -1,18 +1,6 @@
 # 🌳 Klima & Eden Dao
 
-### ![](<../.gitbook/assets/image (21) (1).png>)
-
-
-
-### Certified Offsets vs. Removal Mass
-
-KlimaDAO buys _certified offsets_ for carbon that has already been captured from Verra, representing both reduced emissions and removed emissions. BCT represents both the _mass_ and the _offset_.
-
-The Eden Dao can buy future carbon removal _mass_ (at any stage of certification) representing removed emissions. The _offset_ is later minted.
-
-**Result: Funding the projects at the frontier of carbon capture.**
-
-__
+### ![](<.gitbook/assets/image (21) (1).png>)
 
 ### **Carbon Pooling vs. Distributed Protocol Owned Liquidity**
 
@@ -24,8 +12,8 @@ _The Eden Dao_ meets carbon project developers where they're at to compensate th
 
 ****
 
-### **OlympusDAO vs. TempleDAO Mechanics**
+### **OlympusDAO vs. Custom Mechanics**
 
-Klima is based off OlympusDAO whereas Eden Dao is inspired by TempleDAO.
+Klima is based off OlympusDAO whereas Eden Dao is will use custom tokenomics.
 
 **Result: Stable price but lower potential APY, intrinsic value that is skewed towards rising.**
