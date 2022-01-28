@@ -14,11 +14,11 @@ _DRM tokens can be bought with USDC and are non-transferrable governance tokens 
 
 We've partnered with carbon marketplace [Patch.io](https://patch.io) to curate a set of tier-1 quality projects in the industry. These projects have the scarcest and most valuable carbon removals in the industry.
 
-_$8M would buy out Patch's entire inventory and make the DRM Syndicate a tier-1 global carbon remover._
-
 ![A high-level overview of the projects we're purchasing. Click here to dive into projects details.](.gitbook/assets/image.png)
 
 Furthermore, we will only be purchasing from projects independently assessed by [(carbon)plan](https://carbonplan.org/research/cdr-database), the leader in improving the transparency and scientific integrity of carbon removal and climate solutions through open data and tools.
+
+_$8M would buy out Patch's entire inventory and make the DRM Syndicate a tier-1 global carbon remover. Here's a_ [_Google Sheet_](https://docs.google.com/spreadsheets/d/1jiElyB-OKDGf3chlzMPM7gy3DpYs9F3KD6sShlnyK5E/edit#gid=0) _of project pricing and value (permanence in years)._
 
 ### Success means...
 
