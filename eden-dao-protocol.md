@@ -4,7 +4,6 @@
 >
 > — Cyrus
 
-\
 **We’re going to create the economic game we all should be playing and invite everyone to play it. In the process, we heal our Planet Earth.**
 
 **We will establish a new store of value for the 21st century. A carbon currency that regenerates the planet. A currency that powers a cyber-physical digital-state. A currency that powers an economy that produces the gold of the 21st century.**
@@ -60,6 +59,8 @@ For DeFi users, the experience will be:
 Over the time the TEMPLE RESERVES accrues gEDN from the entry of new market participants (Pillars 1 and 2), as well as trading fees from the LP pools. At the DAO’s discretion, liquidity may be withdrawn from the EDN / FRAX market.
 
 The EDN would be burned. The FRAX could then be paired with DAO-governed gEDN to bootstrap a gEDN / FRAX LP pool. But this is not where gEDN token holders get their liquidity. They get something way better.
+
+
 
 ### 4. EDEN INFINITE HARVEST
 

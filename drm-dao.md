@@ -6,8 +6,6 @@ What are dreams made of? A must read.
 
 **A DRM DAO is a coordinated flow of strategic capital to advance the heroic efforts to regenerate the planet.**
 
-****
-
 The first DRM DAO is the DRM Syndicate. The DRM Syndicate is community first. Any denizen of ETH can [join the DRM Syndicate](https://app.syndicate.io/clubs/0x99d61e194b0b677fa0a8215ad00d852cddd4cd9f). Everybody gets in at the same ground floor. No preferred mints, no insider rounds.&#x20;
 
 A simple 1 USDC = 1 ✺DRM.
