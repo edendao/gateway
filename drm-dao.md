@@ -18,7 +18,7 @@ We've partnered with carbon marketplace [Patch.io](https://patch.io) to curate a
 
 _$8M would buy out Patch's entire inventory and make the DRM Syndicate a tier-1 global carbon remover._
 
-![A high-level overview of the projects we're purchasing from. For more details on projects, click here.](.gitbook/assets/image.png)
+![A high-level overview of the projects we're purchasing. Click here to dive into projects details.](.gitbook/assets/image.png)
 
 Furthermore, we will only be purchasing from projects independently assessed by [(carbon)plan](https://carbonplan.org/research/cdr-database), the leader in improving the transparency and scientific integrity of carbon removal and climate solutions through open data and tools.
 
@@ -36,4 +36,4 @@ When the time comes, [Toucan Protocol](https://toucan.earth) will be helping us 
 
 ### What's next?
 
-[eden-dao-protocol.md](eden-dao-protocol.md "mention") will offer the EDEN CDRM BOND. DRM Syndicate will be among the first to mint the governance token gEDN.
+[eden-dao-protocol.md](eden-dao-protocol.md "mention") will offer the EDEN CDRM BOND. DRM Syndicate will be among the first to mint the network governance token gEDN.
