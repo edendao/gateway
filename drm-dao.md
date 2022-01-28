@@ -1,9 +1,5 @@
 # 🏔 DRM DAO
 
-{% embed url="https://drm.edendao.finance" %}
-What are dreams made of? A must read.
-{% endembed %}
-
 **A DRM DAO is a coordinated flow of strategic capital to advance the heroic efforts to regenerate the planet.**
 
 The first DRM DAO is the DRM Syndicate. The DRM Syndicate is community first. Everybody gets in at the same ground floor. No preferred mints, no insider rounds.&#x20;
