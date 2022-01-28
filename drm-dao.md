@@ -6,9 +6,11 @@ What are dreams made of? A must read.
 
 **A DRM DAO is a coordinated flow of strategic capital to advance the heroic efforts to regenerate the planet.**
 
-The first DRM DAO is the DRM Syndicate. The DRM Syndicate is community first. Any denizen of ETH can [join the DRM Syndicate](https://app.syndicate.io/clubs/0x99d61e194b0b677fa0a8215ad00d852cddd4cd9f). Everybody gets in at the same ground floor. No preferred mints, no insider rounds.&#x20;
+The first DRM DAO is the DRM Syndicate. The DRM Syndicate is community first. Everybody gets in at the same ground floor. No preferred mints, no insider rounds.&#x20;
 
 A simple 1 USDC = 1 ✺DRM.
+
+[Click here to get $DRM and join the DRM Syndicate.](https://app.syndicate.io/clubs/0x99d61e194b0b677fa0a8215ad00d852cddd4cd9f)
 
 ## **DRM Syndicate**
 
@@ -30,10 +32,12 @@ Furthermore, we will only be purchasing from projects independently assessed by 
 
 ****
 
-When the time comes, [Toucan Protocol](https://toucan.earth) will be helping us tokenize the carbon into CDRM (Carbon Dioxide Removal Mass) tokens on Polygon.
+**LFG: Let's fucking grow.** [Click here to get $DRM and join the DRM Syndicate.](https://app.syndicate.io/clubs/0x99d61e194b0b677fa0a8215ad00d852cddd4cd9f)
 
+****
 
+When the time comes, [Toucan Protocol](https://toucan.earth) will help us tokenize the carbon into CDRM (Carbon Dioxide Removal Mass) tokens on Polygon.
 
 ### What's next?
 
-[eden-dao-protocol.md](eden-dao-protocol.md "mention") will offer the EDEN CDRM BOND. DRM Syndicate will be among the first to mint the network governance token gEDN.
+[eden-dao-protocol.md](eden-dao-protocol.md "mention") will offer the EDEN CDRM BOND. DRM Syndicate may bond CDRM to mint gEDN, the non-transferrable network governance token.
