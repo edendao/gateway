@@ -9,6 +9,7 @@
   * [👺 5. Moloch Strikes Back](dao-de-edn/5.-moloch-strikes-back.md)
   * [🌊 6. Return of the DAO](dao-de-edn/6.-return-of-the-dao.md)
 * [🌅 The Dream Awakens](the-dream-awakens.md)
-* [🌳 Klima & Eden Dao](klima-and-eden-dao.md)
+* [🏔 DRM DAO](drm-dao.md)
+* [🌟 Protocol](protocol.md)
 * [💌 Aligned Souls](aligned-souls.md)
 * [❤ Colophon](colophon.md)
