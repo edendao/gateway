@@ -38,4 +38,4 @@ When the time comes, [Toucan Protocol](https://toucan.earth) will be helping us 
 
 ### What's next?
 
-The Eden Dao [protocol.md](protocol.md "mention") will offer the EDEN CDRM BOND. DRM Syndicate can bond CDRM to mint the governance token gEDN.&#x20;
+[eden-dao-protocol.md](eden-dao-protocol.md "mention") will offer the EDEN CDRM BOND. DRM Syndicate will be among the first to mint the governance token gEDN.

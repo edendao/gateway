@@ -10,6 +10,6 @@
   * [🌊 6. Return of the DAO](dao-de-edn/6.-return-of-the-dao.md)
 * [🌅 The Dream Awakens](the-dream-awakens.md)
 * [🏔 DRM DAO](drm-dao.md)
-* [🌟 Protocol](protocol.md)
+* [🌟 Eden Dao Protocol](eden-dao-protocol.md)
 * [💌 Aligned Souls](aligned-souls.md)
 * [❤ Colophon](colophon.md)
