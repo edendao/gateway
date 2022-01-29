@@ -22,7 +22,7 @@ _$8M would buy out Patch's entire inventory and make the DRM Syndicate a tier-1 
 
 ### Success means...
 
-1. Raising $8M to become a tier-1 global carbon remover.
+1. Raising $10M to become a tier-1 global carbon remover.
 2. Commissioning a Badge of Honor NFT exclusively for DRM Syndicate members
 3. Celebrating with an in-person event
 
