@@ -6,7 +6,7 @@ The first DRM DAO is the DRM Syndicate. The DRM Syndicate is community first. Ev
 
 A simple 1 USDC = 1 ✺DRM.
 
-[Click here to get $DRM and join the DRM Syndicate.](https://app.syndicate.io/clubs/0x99d61e194b0b677fa0a8215ad00d852cddd4cd9f)
+Join the front lines of climate change. [$DRM to join DRM Syndicate.](https://app.syndicate.io/clubs/0x99d61e194b0b677fa0a8215ad00d852cddd4cd9f)
 
 ## **DRM Syndicate**
 
