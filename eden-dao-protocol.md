@@ -10,9 +10,9 @@
 
 The Eden Dao Note (EDN) is a new carbon currency. It is minted through EDEN BONDS to reflect the value of the outer world. It is more like FEI than OHM or TEMPLE, minted to reflect value added to the protocol.
 
-When it is minted, it is immediately bonded to mint gEDN. gEDN is the governance token for the Garden of EDN. gEDN holders naturally practice the art of diamond hands. In our Garden we must build 4 Pillars to uphold our Temple.
+At mint, it is immediately bonded to gEDN. gEDN is the governance token for the Garden of EDN.
 
-
+In our Garden we must build 4 Pillars to uphold our Temple.
 
 ## The Temple Pillars
 
