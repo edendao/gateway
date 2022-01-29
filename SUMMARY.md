@@ -8,7 +8,7 @@
   * [🌌 4. A New Hope](dao-de-edn/4.-a-new-hope.md)
   * [👺 5. Moloch Strikes Back](dao-de-edn/5.-moloch-strikes-back.md)
   * [🌊 6. Return of the DAO](dao-de-edn/6.-return-of-the-dao.md)
-* [🌅 The Dream Awakens](the-dream-awakens.md)
+  * [🌅 7. The Dream Awakens](dao-de-edn/7.-the-dream-awakens.md)
 * [🏔 DRM DAO](drm-dao.md)
 * [🌟 Eden Dao Protocol](eden-dao-protocol.md)
 * [💌 Aligned Souls](aligned-souls.md)
