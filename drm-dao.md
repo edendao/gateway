@@ -30,7 +30,9 @@ _$8M would buy out Patch's entire inventory and make the DRM Syndicate a tier-1 
 
 **LFG: Let's fucking grow.** [Click here to get $DRM and join the DRM Syndicate.](https://app.syndicate.io/clubs/0x99d61e194b0b677fa0a8215ad00d852cddd4cd9f)
 
-****
+{% embed url="https://cleanshot-cloud-fra.accelerator.net/media/19059/e1EVg86gomMfgVxdjWxDVUNNatb3TGPBxXIhTXCL.mp4" %}
+Getting $DRM with Syndicate DAO
+{% endembed %}
 
 When the time comes, [Toucan Protocol](https://toucan.earth) will help us tokenize the carbon into CDRM (Carbon Dioxide Removal Mass) tokens on Polygon.
 
