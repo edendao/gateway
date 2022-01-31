@@ -60,7 +60,7 @@ Over the time the TEMPLE RESERVES accrues gEDN from the entry of new market part
 
 The EDN would be burned. The FRAX could then be paired with DAO-governed gEDN to bootstrap a gEDN / FRAX LP pool. But this is not where gEDN token holders get their liquidity. They get something way better.
 
-
+![](<.gitbook/assets/Screenshot 2022-01-31 at 13.41.26.png>)
 
 ### 4. EDEN INFINITE HARVEST
 
