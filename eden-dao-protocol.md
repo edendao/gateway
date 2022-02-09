@@ -45,12 +45,12 @@ Carbon projects all remove carbon, but they have different bonding rates for tha
 
 For DeFi users, the experience will be:
 
-1. Approve $X FRAX
-2. Bond $X FRAX, receive $X worth of gEDN.\
+1. Approve X CDRM representing X tCO2e • Y years
+2. Bond X CDRM, receive \~X•Y worth of gEDN.\
    Under the hood, this will:
-   1. Mint `EDN at 1 EDN = max(bondRate = 1 FRAX, EDN / FRAX exchange rate)`
-   2. Deposit EDN and FRAX for LP Bond the LP for gEDN (valued at $X \* 2)
-   3. Transfer $X worth of gEDN each to the receiver and the TEMPLE RESERVES.
+   1. Mint `N EDN = X•min(Y, 1000)`
+   2. Deposit EDN and CDRM for LP, bond the LP for gEDN (valued at N \* 2)
+   3. Transfer $N worth of gEDN each to the receiver and the TEMPLE RESERVES.
 
 ![Follow (N) from 1 to 6 for order of operations](https://lh3.googleusercontent.com/yydGA1v6D7mm-W9ULWC961-fE9Y8mEfoNKeP5nRzjSSREkFbbHZ1gJHvc9s24T9U7jvG9HJk0OpA8eUhsFxcwHa\_CtCkqpWbGOKmBMLkUeTnjW7RkDTBohd9qEvff9bMnEKuD8ec)
 
