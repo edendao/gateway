@@ -26,7 +26,7 @@ sEDN can be planted in the Garden for gEDN. gEDN receives sEDN rewards when addi
 
 ### (🌎, 🌍, 🌏) Earn sEDN as the planet gets healed
 
-When qualified projects may bond (CDRM) Carbon Dioxide Removal Mass to the protocol new sEDN is minted and distributed to gEDN token holders.
+Qualified projects may bond (CDRM) Carbon Dioxide Removal Mass to the protocol new sEDN is minted and distributed to gEDN token holders.
 
 ### (🌎, 🌍, 🌏) Harvest sEDN into stables&#x20;
 
