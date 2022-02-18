@@ -16,23 +16,23 @@ A token flow diagram! For those versed in "stock and flow" arts.
 
 ### **(1, 1) Offsetters can use EDN to buy and redeem offsets**
 
-EDN can be used to purchase for $1 each and exchanged for CDRM tokens in the EDN / CDRM UniV3 pool. CDRM tokens represent tons of CO2, like BCT. These can be redeemed through a proposal submitted to the EDEN DAO for the underlying Toucan TCO2 offset.
+EDN can be purchased for $1 each and exchanged for CDRM tokens in the EDN / CDRM UniV3 pool. CDRM tokens represent tons of CO2, like BCT. These can be redeemed through a proposal submitted to the EDEN DAO for the underlying Toucan TCO2 offset.
 
 ### (2, 2) Forge EDN into sEDN
 
-EDN can be forged into sEDN by rebalancing and adding liquidity to the EDN / CDRM pool. This LP is tokenized into the sEDN ERC20. sEDN is backed but not redeemable for EDN and CDRM.
+EDN can be forged into sEDN by rebalancing and adding liquidity to the EDN / CDRM pool. This LP is tokenized into the sEDN ERC20. The LP is owned by the DAO on behalf of sEDN holders.
 
 ### (3, 3) **Plant sEDN to mint gEDN**
 
 sEDN can be planted in the Garden for gEDN. gEDN receives sEDN rewards when the planet gets healed.
 
-### (🌎, 🌍, 🌏) Earn sEDN as the planet gets healed
+### (🌎, 🌍, 🌏) Watch your sEDN grow as the planet heals
 
-Qualified projects may plant CDRM (Carbon Dioxide Removal Mass) to the protocol. This mints new EDN as a reward, and deposits both the CDRM and the EDN into the LP. The sEDN is distributed between the CDRM planter and the broader Garden of Eden.
+Qualified carbon projects may plant CDRM (Carbon Dioxide Removal Mass) to the protocol. This mints new EDN as a reward, and deposits both the CDRM and the EDN into the LP. The sEDN is distributed between the CDRM planter and gEDN holders.
 
 ### (🌎, 🌍, 🌏) Harvest sEDN into stables&#x20;
 
-Once planted, sEDN cannot be unplanted. Better, it can be harvested into stablecoins, while continuing to accrue yield. Initially, this may require a debt market like Fuse Pools. Our vision is to have sEDN — a new store of value — directly serve as collateral for stablecoins. This could be for minting the Celo Dollar, Fei, or other stablecoins.
+Once planted, sEDN cannot be unplanted. Better, it can be harvested into stablecoins. Initially, this may require a debt market like Fuse Pools. Our vision is to have sEDN — a new store of value — directly serve as collateral for stablecoins. This could be for minting the Celo Dollar, Fei, or other stablecoins.
 
 
 
