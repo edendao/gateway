@@ -6,13 +6,9 @@
 
 **We’re going to create the economic game we all should be playing and invite everyone to play it. In the process, we heal our planet.**
 
-****
-
 {% embed url="https://www.plectica.com/maps/6ZLJL8UHI/edit/7ZRECQED2" %}
-A token flow diagram! For those systematically inclined.
+A token flow diagram! For those versed in "stock and flow" arts.
 {% endembed %}
-
-
 
 ## The Map of our Garden
 
