@@ -44,17 +44,11 @@ sEDN rewards can be harvested into stablecoins. Initially, this may require a de
 
 Carbon offset tokens measure CO2 mass in tonnes. This is a perfectly adequate unit of measure for what it was invented for: Reducing emissions.
 
-Recently humanity has been bootstrapping its ability to transform carbon into stable forms. These can be tokenized as carbon alchemy tokens.&#x20;
+Recently humanity has been bootstrapping its ability to transform carbon into stable forms. These can be tokenized as carbon alchemy tokens. Carbon alchemy is tokenized as the CDRM token, measuring mass like BCT. **We tokenize the value of the mass — measured in tonnes of CO2 — into CDRM tokens.**
 
-Carbon alchemy is tokenized as the CDRM token, measuring mass like BCT. In the real world, this is like a "nature based credit" like NCT, which represents carbon removed from the atmosphere from natural solutions like rainforest or mangroves. This can also be the "Wagyu A5 beef" level of carbon removal tokens, like the ones in the [drm-dao.md](drm-dao.md "mention"). These represent solutions like turning compost into fertilizer, or sucking CO2 out of the sky to turn into rocks, which have a credit of 1,000 years.
+In carbon markets they call they have something called "permanence" or "durability". We call it "credit". We source our credit measurement from the industry's best: [(carbon)plan](https://carbonplan.org/research/cdr-database). Using this we can rate the `years of credit` for an amount of a carbon alchemy token. **We tokenize the value of time — measured in years of credit — into EDN tokens.**
 
-In carbon markets they call this credit "permanence" or "durability". We call it "credit". We source our credit measurement from the industry's best: [(carbon)plan](https://carbonplan.org/research/cdr-database). Using this we can rate the `years of credit` for an amount of a carbon alchemy token.
-
-For example, carbon captured by trees gives credit as long as the lease on the land, and then need to get re-accredited. As long as the trees are preserved they can continue to get reaccredited to produce additional EDN token.
-
-**We tokenize the value of the mass — measured in tonnes of CO2 — into CDRM tokens.**
-
-**We tokenize the value of time — measured in years of credit — into EDN tokens.**
+For example, carbon turned into rocks gives 1,000 years of credit — 1,000 EDN — because it is permanently stored. Carbon captured by trees gives credit as long as the lease on the land, and then need to get re-accredited. As long as the trees are preserved they can continue to get reaccredited to produce additional EDN token.
 
 ### sEDN: a store of value for the 21st century
 
