@@ -58,6 +58,4 @@ The majority of CDRM and EDN live in the EDN / CDRM LP pool, which is tokenized 
 
 ### gEDN: Governance and yield
 
-For more details, check out our token flow diagram:&#x20;
-
 {% embed url="https://www.plectica.com/maps/6ZLJL8UHI/edit/7ZRECQED2" %}
