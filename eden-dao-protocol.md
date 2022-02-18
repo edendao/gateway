@@ -12,7 +12,7 @@ A token flow diagram! For those versed in "stock and flow" arts.
 
 ## The Map of our Garden
 
-![](<.gitbook/assets/Screenshot 2022-02-18 at 15.52.30.png>)
+![Start at "Carbon Projects" or "DeFi Regens" and follow the arrows!](<.gitbook/assets/Screenshot 2022-02-18 at 16.08.47.png>)
 
 ### **(1, 1) Offsetters can use EDN to buy and redeem offsets**
 
@@ -28,11 +28,13 @@ sEDN can be planted in the Garden for gEDN. gEDN receives sEDN rewards when the 
 
 ### (🌎, 🌍, 🌏) Watch your sEDN grow as the planet heals
 
-Qualified carbon projects may plant CDRM (Carbon Dioxide Removal Mass) to the protocol. This mints new EDN as a reward, and deposits both the CDRM and the EDN into the LP. The sEDN is distributed between the CDRM planter and gEDN holders.
+When CDRM tokens are forged into sEDN, new EDN is created and distributed to gEDN holders as harvestable sEDN.
 
 ### (🌎, 🌍, 🌏) Harvest sEDN into stables&#x20;
 
-Once planted, sEDN cannot be unplanted. Better, it can be harvested into stablecoins. Initially, this may require a debt market like Fuse Pools. Our vision is to have sEDN — a new store of value — directly serve as collateral for stablecoins. This could be for minting the Celo Dollar, Fei, or other stablecoins.
+Once planted, sEDN cannot be unplanted. Better, it can be harvested into stablecoins. This will proliferate clean money across the entire financial system.
+
+Initially, this may require a debt market like Fuse Pools. Our vision is to have sEDN — a new store of value — directly serve as collateral for stablecoins. This could be for minting the Celo Dollar, Fei, or other stablecoins.
 
 
 
