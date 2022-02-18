@@ -46,9 +46,11 @@ Carbon offset tokens measure CO2 mass in tonnes. This is a perfectly adequate un
 
 Recently humanity has been bootstrapping its ability to transform carbon into stable forms. These can be tokenized as carbon alchemy tokens. Carbon alchemy is tokenized as the CDRM token, measuring mass like BCT. **We tokenize the value of the mass — measured in tonnes of CO2 — into CDRM tokens.**
 
-In carbon markets they call they have something called "permanence" or "durability". We call it "credit". We source our credit measurement from the industry's best: [(carbon)plan](https://carbonplan.org/research/cdr-database). Using this we can rate the `years of credit` for an amount of a carbon alchemy token. **We tokenize the value of time — measured in years of credit — into EDN tokens.**
+In carbon rewards they call they have a quantifiable (yet currently non-financially-instrumented) axis called "permanence" or "durability". This is how many years the carbon is stable in its form.&#x20;
 
-For example, carbon turned into rocks gives 1,000 years of credit — 1,000 EDN — because it is permanently stored. Carbon captured by trees gives credit as long as the lease on the land, and then need to get re-accredited. As long as the trees are preserved they can continue to get reaccredited to produce additional EDN token.
+We view this stability as cause for celebration. For example, carbon turned into rocks gives 1,000 years of credit — 1,000 EDN — because it is permanently stored. Carbon captured by trees gives credit as long as the lease on the land, and then need to get re-accredited.&#x20;
+
+We source our permanence values from the industry's best: [(carbon)plan](https://carbonplan.org/research/cdr-database). And we reward it. When new CDRM is deposited into the protocol, new EDN is minted equal to the sum of the underlying years of permanence. **We tokenize the value of time — measured in years of reward — into EDN tokens.**
 
 ### sEDN: a store of value for the 21st century
 
