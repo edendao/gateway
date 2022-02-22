@@ -14,7 +14,7 @@ A token flow diagram! For those versed in "stock and flow" arts.
 
 ![Start at "Carbon Projects" or "DeFi Regens" and follow the arrows!](<.gitbook/assets/Screenshot 2022-02-18 at 16.08.47.png>)
 
-### **(1, 1) Offsetters can use EDN to buy and redeem offsets**
+### **(1, 1) Corporations can use EDN to buy and redeem offsets**
 
 EDN can be purchased for $1 each and exchanged for CDRM tokens in the EDN / CDRM UniV3 pool. CDRM tokens represent tons of CO2, like BCT. These can be redeemed through a proposal submitted to the EDEN DAO for the underlying Toucan TCO2 offset.
 
