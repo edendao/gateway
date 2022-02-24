@@ -12,7 +12,7 @@ A token flow diagram! For those versed in "stock and flow" arts.
 
 ## The Map of our Garden
 
-![Start at "Carbon Projects" or "DeFi Regens" and follow the arrows!](<.gitbook/assets/Screenshot 2022-02-18 at 16.08.47.png>)
+![Start at "Carbon Projects" or "DeFi Regens" and follow the arrows!](<../.gitbook/assets/Screenshot 2022-02-18 at 16.08.47.png>)
 
 ### **(1, 1) Corporations can use EDN to buy and redeem offsets**
 

@@ -36,4 +36,4 @@ Getting $DRM with Syndicate DAO
 
 ### What's next?
 
-[eden-dao-protocol.md](eden-dao-protocol.md "mention") will tokenize the carbon with the help of [Toucan Protocol](https://toucan.earth) and airdrop ✺DRM token holders our governance token gEDN.
+[eden-dao-protocol](eden-dao-protocol/ "mention") will tokenize the carbon with the help of [Toucan Protocol](https://toucan.earth) and airdrop ✺DRM token holders our governance token gEDN.
