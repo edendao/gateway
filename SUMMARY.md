@@ -11,6 +11,7 @@
   * [🌅 7. The Dream Awakens](dao-de-edn/7.-the-dream-awakens.md)
 * [🏔 DRM DAO](drm-dao.md)
 * [🌟 Eden Dao Protocol](eden-dao-protocol/README.md)
+  * [♟ Game Theory](eden-dao-protocol/game-theory.md)
   * [⛓ Reflective Liquidity](eden-dao-protocol/reflective-liquidity.md)
 * [💌 Aligned Souls](aligned-souls.md)
 * [❤ Colophon](colophon.md)
