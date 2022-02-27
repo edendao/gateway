@@ -7,7 +7,7 @@ Eden Dao game theory examines the outcomes of actions taken part of the two type
 
 &#x20;
 
-![](<../.gitbook/assets/Screenshot 2022-02-26 at 23.07.25 (1).png>)
+![Access the sheet here](<../.gitbook/assets/Screenshot 2022-02-26 at 23.07.25 (1).png>)
 
 **Plant**ing turns your sEDN into gEDN, the governance and yield token. As new carbon is bonded into the protocol, yield is distributed to gEDN token holders.
 
