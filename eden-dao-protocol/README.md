@@ -10,6 +10,10 @@
 A token flow diagram! For those versed in "stock and flow" arts.
 {% endembed %}
 
+__
+
+_This novel architecture is not an Olympus DAO fork._
+
 ## The Map of our Garden
 
 ![Start at "Carbon Projects" or "DeFi Regens" and follow the arrows!](<../.gitbook/assets/Screenshot 2022-02-18 at 16.08.47.png>)
