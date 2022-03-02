@@ -1,11 +1,11 @@
-# ♟ Game Theory
+# ♟ Actors & Actions
 
-Eden Dao game theory examines the outcomes of actions taken part of the two types of actors in the protocol.
+Eden Dao examines the outcomes of actions taken part of the two types of actors in the protocol.
 
 1. The first type of actor we call **Eden Daoists.** They **are crypto climate capitalists**. They are like the [_Klimate_ of KlimaDAO.](https://docs.klimadao.finance/tokenomics-and-mechanisms/game-theory-olympus-inspired) They **seek DeFi yield and stability.**
 2. The second type of actor we call **Eden Daoists.** They **are carbon chain bridgers.** In Klima, these are the BCT bridgers who bond for Klima at RFV. They **seek a premium over off-chain prices.**
 
-&#x20;
+
 
 ![Access the sheet here](<../.gitbook/assets/Screenshot 2022-02-26 at 23.07.25 (1).png>)
 
