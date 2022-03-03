@@ -2,8 +2,8 @@
 
 Eden Dao examines the outcomes of actions taken part of the two types of actors in the protocol.
 
-1. The first type of actor we call **Eden Daoists.** They **are crypto climate capitalists**. They are like the [_Klimate_ of KlimaDAO.](https://docs.klimadao.finance/tokenomics-and-mechanisms/game-theory-olympus-inspired) They **seek DeFi yield and stability.**
-2. The second type of actor we call **Eden Daoists.** They **are carbon chain bridgers.** In Klima, these are the BCT bridgers who bond for Klima at RFV. They **seek a premium over off-chain prices.**
+1. The first type of actor we call **Eden Daoists.** They **are crypto climate capitalists**. They **seek DeFi yield and stability.**
+2. The second type of actor we call **Eden Daoists.** They **are carbon chain bridgers.** They **seek a premium over off-chain prices.**
 
 
 
