@@ -14,34 +14,6 @@ __
 
 ## The Map of our Garden
 
-![Start at "Carbon Projects" or "DeFi Regens" and follow the arrows!](<../.gitbook/assets/Screenshot 2022-02-18 at 16.08.47.png>)
-
-### **(1, 1) Corporations can use EDN to buy and redeem offsets**
-
-EDN can be purchased for $1 each and exchanged for CDRM tokens in the EDN / CDRM UniV3 pool. CDRM tokens represent tons of CO2, like BCT. These can be redeemed through a proposal submitted to the EDEN DAO for the underlying Toucan TCO2 offset.
-
-### (2, 2) Forge EDN into sEDN
-
-EDN can be forged into sEDN by rebalancing and adding liquidity to the EDN / CDRM pool. This LP is tokenized into the sEDN ERC20. The LP is owned by the DAO on behalf of sEDN holders.
-
-### (3, 3) **Plant sEDN to mint gEDN**
-
-sEDN can be planted in the Garden for gEDN. gEDN receives sEDN rewards when the planet gets healed.
-
-### (🌎, 🌍, 🌏) Watch your sEDN grow as the planet heals
-
-When CDRM tokens are forged into sEDN, new EDN is created and distributed to gEDN holders as harvestable sEDN.
-
-### (🌎, 🌍, 🌏) Harvest sEDN into stables&#x20;
-
-Once planted, sEDN cannot be unplanted. Better, it can be harvested into stablecoins. This will proliferate clean money across the entire financial system.
-
-Initially, this may require a debt market like Fuse Pools. Our vision is to have sEDN — a new store of value — directly serve as collateral for stablecoins. This could be for minting the Celo Dollar, Fei, or other stablecoins.
-
-
-
-## Token Guide
-
 ### EDN and CDRM: A source of value for the 21st century
 
 Carbon offset tokens measure CO2 mass in tonnes. This is a perfectly adequate unit of measure for what it was invented for: Reducing emissions.
@@ -54,12 +26,22 @@ We view this stability as cause for celebration. For example, carbon turned into
 
 We source our permanence values from the industry's best: [(carbon)plan](https://carbonplan.org/research/cdr-database). And we reward it. When new CDRM is deposited into the protocol, new EDN is minted equal to the sum of the underlying years of permanence. **We tokenize the value of time — measured in years of reward — into EDN tokens.**
 
-### sEDN: a store of value for the 21st century
+### **(1, 1) Corporations can use EDN to buy and redeem offsets**
 
-**sEDN holders LP the world's best store of value for the world's best carbon assets.**
+EDN can be purchased for $1 each and exchanged for CDRM tokens with the EDN / CDRM LP. CDRM tokens represent tons of CO2, like BCT. These can be redeemed through a proposal submitted to the EDEN DAO for the underlying Toucan TCO2 offset.
 
-The majority of CDRM and EDN live in the EDN / CDRM LP pool, which is tokenized into sEDN. sEDN is a store of value measuring `tCO2•years`, which serves as our elegant foundation to disrupting the carbon markets. Pools preserve and increase in value `k = x•y` over time. Given `x = CDRM = tCO2` and `y = EDN = years`, the unit of value is `k = x•y = CDRM•EDN = tCO2•years`. This value is fractionalized into sEDN.
+### (2, 2) DeFi users can LP EDN / CDRM to increase cost of compliance
 
-### gEDN: Governance and yield
+DeFi users can purchase EDN and LP the EDN / CDRM pool to receive sEDN, a share of the pool. The pool's actual LP is owned by the DAO on behalf of sEDN holders.
 
-{% embed url="https://www.plectica.com/maps/6ZLJL8UHI/edit/7ZRECQED2" %}
+### (3, 3) **DeFi users "plant" sEDN to mint gEDN**
+
+By default, DeFi users will automatically plant their sEDN for gEDN. gEDN receives yield (targeting 20% APY) and has governance powers in the DAO.
+
+### (🌎, 🌍, 🌏) Watch your sEDN grow as the planet heals
+
+When CDRM tokens are forged into sEDN, the excess sEDN is created and distributed to gEDN holders as harvestable sEDN. This feeds the target APY.
+
+### (🌎, 🌍, 🌏) Harvest sEDN into stables&#x20;
+
+Once planted, sEDN cannot be unplanted. Better, it can be harvested into stablecoins. This mints an existing stablecoin, like FEI, CUSD, etc. This will proliferate clean money across the entire financial system.
