@@ -3,7 +3,7 @@
 Eden Dao examines the outcomes of actions taken part of the two types of actors in the protocol.
 
 1. The first type of actor we call **Eden Daoists.** They **are crypto climate capitalists**. They **seek DeFi yield and stability.**
-2. The second type of actor we call **Eden Daoists.** They **are carbon chain bridgers.** They **seek a premium over off-chain prices.**
+2. The second type of actor we _also_ call **Eden Daoists.** They **are carbon chain bridgers.** They **seek a premium over off-chain prices.**
 
 
 
