@@ -10,7 +10,7 @@ Join the front lines of climate change. [$DRM to join DRM Syndicate.](https://ap
 
 ## **DRM Syndicate**
 
-_DRM tokens can be bought with USDC and are non-transferrable governance tokens fractionalizing the holdings of the DRM Syndicate Gnosis Safe._
+_DRM tokens can be bought with USDC and governance tokens fractionalizing the holdings of the DRM Syndicate Gnosis Safe, which will literally just represent carbon credits._
 
 We've partnered with carbon marketplace [Patch.io](https://patch.io) to curate a set of tier-1 quality projects in the industry. These projects have the scarcest and most valuable carbon removals in the industry. 100% of funds will be used to purchase carbon from Patch, up to $10M.&#x20;
 
