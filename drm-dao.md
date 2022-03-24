@@ -33,7 +33,3 @@ _$8M would buy out Patch's entire inventory and make the DRM Syndicate top-tier 
 {% embed url="https://cleanshot-cloud-fra.accelerator.net/media/19059/e1EVg86gomMfgVxdjWxDVUNNatb3TGPBxXIhTXCL.mp4" %}
 Getting $DRM with Syndicate DAO
 {% endembed %}
-
-### What's next?
-
-[eden-dao-protocol](eden-dao-protocol/ "mention") will tokenize the carbon with the help of [Toucan Protocol](https://toucan.earth) and airdrop ✺DRM token holders our governance token gEDN.
