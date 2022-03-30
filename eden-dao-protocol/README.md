@@ -32,16 +32,16 @@ EDN can be purchased for $1 each and exchanged for CDRM tokens with the EDN / CD
 
 ### (2, 2) DeFi users can LP EDN / CDRM to increase cost of compliance
 
-DeFi users can purchase EDN and LP the EDN / CDRM pool to receive sEDN, a share of the pool. The pool's actual LP is owned by the DAO on behalf of sEDN holders.
+DeFi users can purchase EDN and LP the EDN / CDRM pool to receive an LP token.
 
-### (3, 3) **DeFi users "plant" sEDN to mint gEDN**
+### (3, 3) **DeFi users bond LP to mint gEDN**
 
-By default, DeFi users will automatically plant their sEDN for gEDN. gEDN receives yield (targeting 20% APY) and has governance powers in the DAO.
+By default, DeFi users will automatically plant their LP for gEDN. gEDN receives yield (targeting 20% APY) and has governance powers in the DAO. gEDN is like a permanent treasury bond — you remove your EDN from circulating supply in exchange for yield.
 
-### (🌎, 🌍, 🌏) Watch your sEDN grow as the planet heals
+### (🌎, 🌍, 🌏) Watch your stack grow as the planet heals
 
-When CDRM tokens are forged into sEDN, the excess sEDN is created and distributed to gEDN holders as harvestable sEDN. This feeds the target APY.
+When carbon is deposited into the protocol, the increase in protocol owned liquidity is twice the number of EDN tokens minted. Half this value is distributed to the DAO, the protocol, and gEDN holders to power the 20% target APY (or increase runway).
 
-### (🌎, 🌍, 🌏) Harvest sEDN into stables&#x20;
+### (🌎, 🌍, 🌏) Harvest EDN into stables&#x20;
 
-Once planted, sEDN cannot be unplanted. Better, it can be harvested into stablecoins. This mints an existing stablecoin, like FEI, CUSD, etc. This will proliferate clean money across the entire financial system.
+The protocol, on your behalf, can use the EDN underlying your gEDN token to mint an existing stablecoin, like FEI, CUSD, etc. through a debt market. Your yield goes towards repaying your debt.
