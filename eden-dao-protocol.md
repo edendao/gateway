@@ -44,11 +44,11 @@ You can mint your first Domain by sending at least 0.05 ETH to the ConjureDeus c
 
 ### Eden Dao **Note** (EDN) is the omnichain token for the public good
 
-EDN is the foundation for a new wave of omnichain value communication. It can be bridged across the chains quickly and with no slippage, burning at the source to mint on the destination — like a Phoenix. We're really excited to see what people build with this. Reach out and we'll see if we can help you!&#x20;
+EDN is the foundation for a new wave of omnichain value communication. DAOs can purchase EDN to compensate contributors across any chain quickly and with no slippage. EDN is like a Phoenix, it burns on the source chain to mint on the destination.
 
 As you interact with our protocol, you will have many opportunities to call `payable` contracts. For every ETH you gift, these contracts will honor you with 1,000 EDN tokens.
 
-We've got a lot in store for EDN in the future — this is only the beginning.&#x20;
+We've got a lot in store for EDN in the future — this is only the beginning. We're really excited to see what people build with this. Reach out and we'll see if we can help you!&#x20;
 
 ### Note for the Public Good
 
