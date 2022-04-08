@@ -24,10 +24,10 @@ description: '"ENS for Omnichain Identity"'
 >
 > As is often the case in crypto, we needed infrastructure that hadn't been built yet. So I built it.
 
-Eden Dao Protocols are designed to harmonize value and identity across the omnispace — the space on, between, and around the chains. They empower users, DAOs, and protocols with powers never seen before, and we're excited to see how people build on them. And they also water the gardens of our Garden of Eden — Planet Earth — so that a regenerative renaissance may blossom.
+Eden Dao Protocol is an ecosystem of protocols designed to harmonize value and identity across the omnispace — the space on, between, and around the chains. They empower users, DAOs, and protocols with powers never seen before, and we're excited to see how people build on them. And they also water the gardens of our Garden of Eden — Planet Earth — so that a regenerative renaissance may blossom.
 
 1. **Passport** is an omnichain identity protocol built around a synchronizable, soulbound NFT
-2. **Domain** NFT token holders enable securely write and syncing _Passport_ data.
+2. **Domain** protocol allows NFT holders to permissionlessly and securely write and sync _Passport_ data across omnispace.
 3. **Note** is an omnichain synthetic ERC20 with fast, no-slippage bridging thanks to LayerZero.
 
 Launching on Ethereum, and then Polygon, Arbitrum, Avalanche, Optimism, and Celo, soon after.
