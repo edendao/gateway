@@ -6,7 +6,7 @@ description: "Eden Dao Protocol is a protocol ecosystem designed to harmonize va
 
 Omnispace overflows beyond blockchains and into our world. For but a brief moment, we ask that you take a moment to tune into the energy of our world, feel its suffering as we watch derailed natural cycles plunging us towards biosphere collapse.
 
-Now imagine future Planet Eden, one where humanity lives harmoniously its natural cycles. Eden Dao is our path for going from Planet Earth to Planet Eden. We find the highest-leverage impact vectors then we move heaven and earth to make it happen. This protocol is designed to **** bootstrap the on-chain regenerative economy.
+Now imagine future Planet Eden, one where humanity lives harmoniously its natural cycles. Eden Dao is our journey from Planet Earth to Planet Eden. We find the highest-leverage opportunities then we find the _wei_ to make it happen. This protocol is designed to **** bootstrap the regenerative economy.
 
 > _From Cyrus, April 8th, 2022_
 >
