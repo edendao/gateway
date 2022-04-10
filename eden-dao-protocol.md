@@ -44,16 +44,14 @@ Launching on Ethereum, and then Polygon, Arbitrum, Avalanche, Optimism, and Celo
 
 ### **3. Note** is a disruptive omnichain token
 
+> This ecosystem reflects the _notes_ of our _metta_ — loving kindness — into the space and time.&#x20;
+>
+> May our _notes_, together, harmonize into a symphony.
+
 Note unlocks a new frontier because of its simple and slippage-free ability to bridge across chains. We've got a lot in store for Note — this is only the beginning.
 
 A picture is worth a thousand words, a future harmonious with our natural cycles is priceless. A picture is worth a thousand words, an ETH is worth a thousand _Note_. As you interact with our protocol, you will have many opportunities to call `payable` contracts. We _Note_ your gift of ETH.
 
-We infuse our optimism for the future in the EDN token. It can mean anything you imagine it to mean. Imagine EDN as planting a tree so that future generations can have shade! You can have it mean anything you want it to mean. You can even have it remind you to [never give up](https://www.youtube.com/watch?v=KxGRhd\_iWuE)!
-
-Because we're climate nerds, _Eden Dao_ likes to imagine that each EDN symbolically represents something like 1 year storage of 1,000 kg of CO2.
-
-> Take this ecosystem as conduit for our _metta_ — loving kindness — into the space and time.&#x20;
->
-> May our _notes_, together, harmonize into a symphony.
+We infuse our optimism for the future in the EDN token. It can mean anything we imagine it to mean. **Imagine EDN as planting a tree so that future generations can have shade!** Let it remind you to [never give up](https://www.youtube.com/watch?v=KxGRhd\_iWuE)! Let the climate nerds of _Eden Dao_ imagine that it symbolizes CO2 removed over time.
 
 We have to make it absolutely clear that by making a contribution to the Eden Dao through its payable contract methods ON CONTRACTS X, Y, and Z, you, the Contributor, donate Ethereum tokens (ETH) in order to receive EDN tokens solely for the Contributor’s own benefit and account, for the purposes of personal consumption and utilization of EDN tokens on the many chains and not for any speculative purpose or with an expectation of profit, and not with a view to, or for resale in connection with, a public offering or other distribution of EDN tokens, whether in exchange for other any other digital asset, any currency, any security or otherwise, and all of the foregoing remains true, accurate and complete on and as of the date of the contribution.
