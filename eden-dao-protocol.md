@@ -22,13 +22,13 @@ description: '"ENS for Omnichain Identity"'
 >
 > As DAO natives, let us liberate ourselves from the shackles of a chain to move at 100x the speed in the omnispace world. We can now sign up for whatever DAO tooling that works, without deliberating for months on chain lock-in.&#x20;
 
-Eden Dao Protocol is an ecosystem designed to harmonize value and identity across the _omnispace_ — the space on, between, and around the chains. It operates as public goods infrastructure. Our ecosystem is designed to empower users, DAOs, and protocols with powers never seen before, and we're excited to see how people build on them.&#x20;
+Eden Dao Protocol is public goods infrastructure. It is a protocol ecosystem designed to harmonize value and identity across the _omnispace_ — the space on, between, and around the chains. Our ecosystem is designed to empower users, DAOs, and protocols the power to travel through omnispace. We're excited to see how people build on our foundation.
 
-1. **Passport** lets users take their on-chain identity throughout omnispace
-2. **Channel** allows users and developers you to read and write data in the omnispace
-3. **Note** is an omnichain token with fast, no-slippage bridging thanks to LayerZero.
+1. **Passport** is soulbound on-chain omnispace identity
+2. **Channel** allows users and builders to read and write data on **Passport** across omnispace
+3. **Note** is a token symbolizing our optimism for the future, an omnichain token with fast, no-slippage bridging.
 
-Launching on Ethereum, and then Polygon, Arbitrum, Avalanche, Optimism, and Celo, soon after.
+Launching on Ethereum, and then Polygon, Arbitrum, Avalanche, Optimism, and Celo, soon after. Built on LayerZero.
 
 ### **Passport** is your omnichain identity
 
@@ -38,30 +38,24 @@ Launching on Ethereum, and then Polygon, Arbitrum, Avalanche, Optimism, and Celo
 
 **Channel** are like omnichain radio channels for builders and artists. Holding a Channel NFT lets users and smart contracts send data to any passport, on any chain, by writing to a dedicated `bytes` storage slot on every **Passport**.
 
-### **Note** is the omnichain token
+### **Note** is a disruptive omnichain token
 
-Omnispace overflows beyond blockchains and into our world. For but a brief moment, we ask that you take a moment to tune into the energy of our world, feel its pain, and suffering as we watch derailed natural cycles plunging us towards biosphere collapse.
+Note unlocks a new frontier because of its simple and slippage-free ability to bridge across chains. We've got a lot in store for Note — this is only the beginning.
 
-What is supremely valuable is our civilization's continued dignified flourishing in the world. We infuse our optimism for the future in the EDN token. EDN unlocks a new frontier because it is simple and slippage-free to bridge across chains.&#x20;
+A picture is worth a thousand words, a future harmonious with our natural cycles is priceless. A picture is worth a thousand words, an ETH is worth a thousand _Note_. As you interact with our protocol, you will have many opportunities to call `payable` contracts. We _Note_ your gift of ETH.
 
-We've got a lot in store for EDN in the future — this is only the beginning. We're really excited to see what people build with this. Reach out and we'll see if we can help you!&#x20;
+We infuse our optimism for the future in the EDN token. It can mean anything you imagine it to mean. Imagine EDN as planting a tree so that future generations can have shade! You can have it mean anything you want it to mean. You can even have it remind you to [never give up](https://www.youtube.com/watch?v=KxGRhd\_iWuE)!
 
-### We're for the public good.
+Because we're climate nerds, _Eden Dao_ likes to imagine that each EDN symbolically represents something like 1 year storage of 1,000 kg of CO2.
 
-> These contracts we have created as conduit for our _metta_ — loving kindness — into the universe.&#x20;
-
-Omnispace overflows beyond blockchains and into our world. For but a brief moment, we ask that you take a moment to tune into the energy of our world, feel its pain, and suffering as we watch derailed natural cycles plunging us towards biosphere collapse.
-
-In these dire times, what is supremely valuable is our civilization's continued dignified flourishing in the world. And to do that, we need to reharmonize with the natural cycles of the planet.
-
-**Eden Dao invites you to imagine a future for humanity that is harmonious with natural cycles.**
-
-> The mission of Eden Dao is to bootstrap the on-chain regenerative economy. We find the highest-leverage impact vectores then we move heaven and earth to make it happen.
+> Take this ecosystem as conduit for our _metta_ — loving kindness — into the space and time.&#x20;
 >
-> A picture is worth a thousand words, and a future harmonious with our natural cycles is priceless. As you interact with our protocol, you will have many opportunities to call `payable` contracts. We _Note_ the transferred ETH value with EDN. A picture is worth a thousand words, an ETH is worth a thousand _Notes_.
->
-> We infuse our optimism for the future in the EDN token. It can mean anything you imagine it to mean. Imagine EDN as planting a tree so that future generations can have shade! You can have it mean anything you want it to mean.
->
-> Because we're climate nerds, _Eden Dao_ likes to believe that each EDN symbolically represents something like 1 year storage of 1,000 kg of CO2.
+> May our _notes_, together, harmonize into a symphony.
 
 We have to make it absolutely clear that by making a contribution to the Eden Dao through its payable contract methods ON CONTRACTS X, Y, and Z, you, the Contributor, donate Ethereum tokens (ETH) in order to receive EDN tokens solely for the Contributor’s own benefit and account, for the purposes of personal consumption and utilization of EDN tokens on the many chains and not for any speculative purpose or with an expectation of profit, and not with a view to, or for resale in connection with, a public offering or other distribution of EDN tokens, whether in exchange for other any other digital asset, any currency, any security or otherwise, and all of the foregoing remains true, accurate and complete on and as of the date of the contribution.
+
+### Why are we doing this? For the public good.
+
+Omnispace overflows beyond blockchains and into our world. For but a brief moment, we ask that you take a moment to tune into the energy of our world, feel its suffering as we watch derailed natural cycles plunging us towards biosphere collapse.
+
+Now imagine future Planet Eden, one where humanity lives harmoniously its natural cycles. Eden Dao is our path for going from Planet Earth to Planet Eden. **Eden Dao bootstraps the on-chain regenerative economy.** We find the highest-leverage impact vectors then we move heaven and earth to make it happen.&#x20;
