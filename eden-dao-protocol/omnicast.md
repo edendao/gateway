@@ -46,7 +46,7 @@ These will initially be sold on the Ethereum network, and the owner is free to b
 
 ## A Note of Gratitude
 
-When minting an Omnicast or an Omnichannel, you will additionally receive EDN as a note of our gratitude. We have lots in store for this token in the future, but for now, take it as a memento of our hope for a regenerative renaissance on Planet Eden.
+When minting an Omnicast or an Omnichannel, you will additionally receive EDN as a note of our gratitude. We have infused in each note our optimism for the future — take it as a memento of our hope for a regenerative renaissance on Planet Eden. If it helps, the Climate Council at Eden Dao would love it if you were to imagine each EDN as symbolizing the unquantifiable essence of 1 ton of carbon removed removed for 1 year.&#x20;
 
 _We have to make it absolutely clear that by making a contribution to the Eden Dao through its payable contract methods ON CONTRACTS X, Y, and Z, you, the Contributor, donate Ethereum tokens (ETH) in order to receive EDN tokens solely for the Contributor’s own benefit and account, for the purposes of personal consumption and utilization of EDN tokens on the many chains and not for any speculative purpose or with an expectation of profit, and not with a view to, or for resale in connection with, a public offering or other distribution of EDN tokens, whether in exchange for other any other digital asset, any currency, any security or otherwise, and all of the foregoing remains true, accurate and complete on and as of the date of the contribution._
 
