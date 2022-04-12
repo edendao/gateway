@@ -34,19 +34,19 @@ Builders can use Omnicast for reading and writing data across chains. It's like 
 
 You can upgrade your existing contracts to write messages on another chain with `sendMessage(toChainId, toOmnicastId, toOmnichannelId, payload)`, and read received messages with `readMessageFor(omnicastId, onOmnichannelId)`.
 
-IDs are `uint256(uint160(anAddress))` — every address has its own omnicast ID and its own omnichannel ID.
+IDs are `uint256(uint160(anAddress))` — every address has its own omnicast ID and its own omnichannel ID. For more details, check out the [IOmnicast interface on GitHub](https://github.com/edendao/protocol/blob/master/src/interfaces/IOmnicast.sol).
 
 ### **Omnichannel — Your Branded Omnispace Channel**
 
 An **Omnichannel** NFT can be minted to reserve access to a branded channel ID. These are ENS-style domains, like `prosperity.eden.dao` or `fwb.eden.dao`. The holder of an Omnichannel NFT has exclusive write access to that omnichannel.
 
-These will initially be sold on the Ethereum network, and the owner is free to bridge these to any of the LayerZero chains to write data to the channel from another chain.
+Although minting is exclusive to Ethereum, the owner is free to bridge these to any of the LayerZero chains to write data to the channel from another chain.
 
 
 
 ## A Note of Gratitude
 
-When minting an Omnicast or an Omnichannel, you will additionally receive EDN as a note of our gratitude. We have infused in each note our optimism for the future — take it as a memento of our hope for a regenerative renaissance on Planet Eden. If it helps, the Climate Council at Eden Dao would love it if you were to imagine each EDN as symbolizing the unquantifiable essence of 1 ton of carbon removed removed for 1 year.&#x20;
+When minting an Omnicast or an Omnichannel, you will additionally receive EDN as a note of our gratitude. We have infused in each note our optimism for the future — take it as a memento of our hope for a regenerative renaissance on Planet Eden. If it helps, the Climate Council at Eden Dao would love it if you were to imagine each EDN as symbolizing the unquantifiable essence of 1 ton of carbon removed for 1 year.&#x20;
 
 _We have to make it absolutely clear that by making a contribution to the Eden Dao through its payable contract methods ON CONTRACTS X, Y, and Z, you, the Contributor, donate Ethereum tokens (ETH) in order to receive EDN tokens solely for the Contributor’s own benefit and account, for the purposes of personal consumption and utilization of EDN tokens on the many chains and not for any speculative purpose or with an expectation of profit, and not with a view to, or for resale in connection with, a public offering or other distribution of EDN tokens, whether in exchange for other any other digital asset, any currency, any security or otherwise, and all of the foregoing remains true, accurate and complete on and as of the date of the contribution._
 
