@@ -36,7 +36,7 @@ You can upgrade your existing contracts to write messages on another chain with 
 
 IDs are `uint256(uint160(anAddress))` — every address has its own omnicast ID and its own omnichannel ID. For more details, check out the [IOmnicast interface on GitHub](https://github.com/edendao/protocol/blob/master/src/interfaces/IOmnicast.sol).
 
-### **Omnichannel — Your Branded Omnispace Channel**
+### **Omnichannel — A branded channel in omnispace**
 
 An **Omnichannel** NFT can be minted to reserve access to a branded channel ID. These are ENS-style domains, like `prosperity.eden.dao` or `fwb.eden.dao`. The holder of an Omnichannel NFT has exclusive write access to that omnichannel.
 
