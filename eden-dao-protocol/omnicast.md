@@ -10,15 +10,11 @@ description: A public goods protocol for omnichain message reading and writing.
 >
 > Like other DAOs, we spent a lot of time weighing the tradeoffs of different chains. As a long-term thinker, I felt dissatisfied with being locked in on a single chain. This caused its fair share of deliberation, which no doubt other DAOs are familiar with.&#x20;
 >
-> We can't onboard the next billion users in crypto if we each spend months deciding where to launch on. On-chain data is fragmented. Users can't carry their data with them across chains.&#x20;
->
-> We wanted to build an NFT that users could take with themselves across the omnispace. As is often the case in crypto, we needed infrastructure that hadn't been built yet.
->
-> So we built it.&#x20;
+> On-chain data is fragmented. We can't onboard the next billion users in crypto if we each spend months deciding where to launch on. _Up until now,_ users couldn't carry their on-chain data with them across chains.&#x20;
 
 At the foundation of the Eden Dao Protocol is public goods infrastructure to **harmonize data across the **_**omnispace**_** — the space on, between, and around the chains.** This unlocks the power that was required for Web3 users to travel cross-chain, while facilitating adoption and amplifying the impact of mission-driven protocols.&#x20;
 
-Without further ado, here are the first releases of our developing ecosystem. We're excited to see what you build with it!
+Without further ado, here are the first releases of our developing ecosystem.
 
 ## **Omnicast: On-Chain Omnispace Identity**&#x20;
 
@@ -30,11 +26,7 @@ This is but the tip of the iceberg — we're excited to see how builders use Om
 
 ### A new primitive for smart contract developers
 
-Builders can use Omnicast for reading and writing data across chains. It's like a two-way omnispace radio — you can use it to send and receive messages on specific channels. What you use this for is up to you, dear builder!&#x20;
-
-You can upgrade your existing contracts to write messages on another chain with `sendMessage(toChainId, toOmnicastId, toOmnichannelId, payload)`, and read received messages with `readMessageFor(omnicastId, onOmnichannelId)`.
-
-IDs are `uint256(uint160(anAddress))` — every address has its own omnicast ID and its own omnichannel ID. For more details, check out the [IOmnicast interface on GitHub](https://github.com/edendao/protocol/blob/master/src/interfaces/IOmnicast.sol).
+Builders can use Omnicast for reading and writing data across chains. It's like a two-way omnispace radio — you can use it to write and read messages on specific channels. What you use this for is up to you, dear builder!&#x20;
 
 ### **Omnichannel — A branded Omnicast channel**
 
